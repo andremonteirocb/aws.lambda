@@ -1,7 +1,0 @@
-C:\lambda\src\lambda\bin\Release\netcoreapp3.1\publish\AWS.dll
-C:\lambda\src\lambda\bin\Release\netcoreapp3.1\publish\AWS.deps.json
-C:\lambda\src\lambda\bin\Release\netcoreapp3.1\publish\AWS.runtimeconfig.json
-C:\lambda\src\lambda\bin\Release\netcoreapp3.1\publish\AWS.pdb
-C:\lambda\src\lambda\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.APIGatewayEvents.dll
-C:\lambda\src\lambda\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
-C:\lambda\src\lambda\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
