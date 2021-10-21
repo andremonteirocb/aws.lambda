@@ -1,0 +1,17 @@
+C:\Lambda\Lambda.Console\bin\Debug\netcoreapp3.1\Lambda.Console.exe
+C:\Lambda\Lambda.Console\bin\Debug\netcoreapp3.1\Lambda.Console.deps.json
+C:\Lambda\Lambda.Console\bin\Debug\netcoreapp3.1\Lambda.Console.runtimeconfig.json
+C:\Lambda\Lambda.Console\bin\Debug\netcoreapp3.1\Lambda.Console.runtimeconfig.dev.json
+C:\Lambda\Lambda.Console\bin\Debug\netcoreapp3.1\Lambda.Console.dll
+C:\Lambda\Lambda.Console\bin\Debug\netcoreapp3.1\Lambda.Console.pdb
+C:\Lambda\Lambda.Console\obj\Debug\netcoreapp3.1\Lambda.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lambda\Lambda.Console\obj\Debug\netcoreapp3.1\Lambda.Console.AssemblyInfoInputs.cache
+C:\Lambda\Lambda.Console\obj\Debug\netcoreapp3.1\Lambda.Console.AssemblyInfo.cs
+C:\Lambda\Lambda.Console\obj\Debug\netcoreapp3.1\Lambda.Console.csproj.CoreCompileInputs.cache
+C:\Lambda\Lambda.Console\obj\Debug\netcoreapp3.1\Lambda.Console.dll
+C:\Lambda\Lambda.Console\obj\Debug\netcoreapp3.1\Lambda.Console.pdb
+C:\Lambda\Lambda.Console\obj\Debug\netcoreapp3.1\Lambda.Console.genruntimeconfig.cache
+C:\Lambda\Lambda.Console\bin\Debug\netcoreapp3.1\Amazon.Lambda.Core.dll
+C:\Lambda\Lambda.Console\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Lambda\Lambda.Console\bin\Debug\netcoreapp3.1\AWSSDK.Lambda.dll
+C:\Lambda\Lambda.Console\obj\Debug\netcoreapp3.1\Lambda.Console.csproj.AssemblyReference.cache

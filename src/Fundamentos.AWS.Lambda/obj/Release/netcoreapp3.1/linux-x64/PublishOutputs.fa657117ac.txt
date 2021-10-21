@@ -1,0 +1,9 @@
+C:\Users\andre.monteiro\Dropbox\Programação\ASP.Net\Estudos\Fundamentos.AWS.Lambda\src\Fundamentos.AWS.Lambda\bin\Release\netcoreapp3.1\publish\AWS.dll
+C:\Users\andre.monteiro\Dropbox\Programação\ASP.Net\Estudos\Fundamentos.AWS.Lambda\src\Fundamentos.AWS.Lambda\bin\Release\netcoreapp3.1\publish\AWS.deps.json
+C:\Users\andre.monteiro\Dropbox\Programação\ASP.Net\Estudos\Fundamentos.AWS.Lambda\src\Fundamentos.AWS.Lambda\bin\Release\netcoreapp3.1\publish\AWS.runtimeconfig.json
+C:\Users\andre.monteiro\Dropbox\Programação\ASP.Net\Estudos\Fundamentos.AWS.Lambda\src\Fundamentos.AWS.Lambda\bin\Release\netcoreapp3.1\publish\AWS.pdb
+C:\Users\andre.monteiro\Dropbox\Programação\ASP.Net\Estudos\Fundamentos.AWS.Lambda\src\Fundamentos.AWS.Lambda\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\andre.monteiro\Dropbox\Programação\ASP.Net\Estudos\Fundamentos.AWS.Lambda\src\Fundamentos.AWS.Lambda\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
+C:\Users\andre.monteiro\Dropbox\Programação\ASP.Net\Estudos\Fundamentos.AWS.Lambda\src\Fundamentos.AWS.Lambda\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\andre.monteiro\Dropbox\Programação\ASP.Net\Estudos\Fundamentos.AWS.Lambda\src\Fundamentos.AWS.Lambda\bin\Release\netcoreapp3.1\publish\AWSSDK.Core.dll
+C:\Users\andre.monteiro\Dropbox\Programação\ASP.Net\Estudos\Fundamentos.AWS.Lambda\src\Fundamentos.AWS.Lambda\bin\Release\netcoreapp3.1\publish\AWSSDK.DynamoDBv2.dll
