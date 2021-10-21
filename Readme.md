@@ -5,12 +5,12 @@
     dotnet tool install -g Amazon.Lambda.Tools
 ```
 
-### Se já instalado, verifique se a nova versão está disponível.
+### Verifique se a nova versão está disponível.
 ```
     dotnet tool update -g Amazon.Lambda.Tools
 ```
 
-### Execute testes de unidade
+### Execute os testes de unidade
 ```
     cd "Fundamentos.AWS.Lambda/test/Fundamentos.AWS.Lambda.Tests"
     dotnet test
