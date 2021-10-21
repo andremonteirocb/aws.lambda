@@ -1,21 +1,21 @@
 
-Install Amazon.Lambda.Tools Global Tools if not already installed.
+Instale Amazon.Lambda.Tools Global Tools se ainda não estiver instalado.
 ```
     dotnet tool install -g Amazon.Lambda.Tools
 ```
 
-If already installed check if new version is available.
+Se já instalado, verifique se a nova versão está disponível.
 ```
     dotnet tool update -g Amazon.Lambda.Tools
 ```
 
-Execute unit tests
+Execute testes de unidade
 ```
     cd "Fundamentos.AWS.Lambda/test/Fundamentos.AWS.Lambda.Tests"
     dotnet test
 ```
 
-Deploy function to AWS Lambda
+Implantar função para AWS Lambda
 ```
     cd "Fundamentos.AWS.Lambda/src/Fundamentos.AWS.Lambda"
     dotnet lambda deploy-function
