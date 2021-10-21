@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qcijUPcBnwpVir7rxCXzbPG95xeeqnpeuJErG6iFWfRJQBdfIL0RkvqIWf7c2iti/AHcvwkhVpPj3L18F+bbZQ==",
+  "dgSpecHash": "v9ZzJuRn4a5ebd9DGfznVhjDhwohTLzKsvHN9nTzegqM+YAO6rRB1hpbjFHoT8cUXKWRdgUzrtZrFTc4nFvuTw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre.monteiro\\Dropbox\\Programação\\ASP.Net\\Estudos\\Fundamentos.AWS.Lambda\\test\\Fundamentos.AWS.Lambda.Tests\\Fundamentos.AWS.Lambda.Tests.csproj",
+  "projectFilePath": "C:\\Users\\andre.monteiro\\Dropbox\\My PC (PHIDELIS-09)\\Desktop\\Fundamentos.AWS.Lambda\\test\\Fundamentos.AWS.Lambda.Tests\\Fundamentos.AWS.Lambda.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre.monteiro\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.4.0\\amazon.lambda.apigatewayevents.2.4.0.nupkg.sha512",
     "C:\\Users\\andre.monteiro\\.nuget\\packages\\amazon.lambda.core\\2.0.0\\amazon.lambda.core.2.0.0.nupkg.sha512",

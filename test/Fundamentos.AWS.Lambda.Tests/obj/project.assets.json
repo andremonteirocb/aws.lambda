@@ -7096,11 +7096,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre.monteiro\\Dropbox\\Programação\\ASP.Net\\Estudos\\Fundamentos.AWS.Lambda\\test\\Fundamentos.AWS.Lambda.Tests\\Fundamentos.AWS.Lambda.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\andre.monteiro\\Dropbox\\My PC (PHIDELIS-09)\\Desktop\\Fundamentos.AWS.Lambda\\test\\Fundamentos.AWS.Lambda.Tests\\Fundamentos.AWS.Lambda.Tests.csproj",
       "projectName": "Fundamentos.AWS.Lambda.Tests",
-      "projectPath": "C:\\Users\\andre.monteiro\\Dropbox\\Programação\\ASP.Net\\Estudos\\Fundamentos.AWS.Lambda\\test\\Fundamentos.AWS.Lambda.Tests\\Fundamentos.AWS.Lambda.Tests.csproj",
+      "projectPath": "C:\\Users\\andre.monteiro\\Dropbox\\My PC (PHIDELIS-09)\\Desktop\\Fundamentos.AWS.Lambda\\test\\Fundamentos.AWS.Lambda.Tests\\Fundamentos.AWS.Lambda.Tests.csproj",
       "packagesPath": "C:\\Users\\andre.monteiro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre.monteiro\\Dropbox\\Programação\\ASP.Net\\Estudos\\Fundamentos.AWS.Lambda\\test\\Fundamentos.AWS.Lambda.Tests\\obj\\",
+      "outputPath": "C:\\Users\\andre.monteiro\\Dropbox\\My PC (PHIDELIS-09)\\Desktop\\Fundamentos.AWS.Lambda\\test\\Fundamentos.AWS.Lambda.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7121,8 +7121,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\andre.monteiro\\Dropbox\\Programação\\ASP.Net\\Estudos\\Fundamentos.AWS.Lambda\\src\\Fundamentos.AWS.Lambda\\Fundamentos.AWS.Lambda.csproj": {
-              "projectPath": "C:\\Users\\andre.monteiro\\Dropbox\\Programação\\ASP.Net\\Estudos\\Fundamentos.AWS.Lambda\\src\\Fundamentos.AWS.Lambda\\Fundamentos.AWS.Lambda.csproj"
+            "C:\\Users\\andre.monteiro\\Dropbox\\My PC (PHIDELIS-09)\\Desktop\\Fundamentos.AWS.Lambda\\src\\Fundamentos.AWS.Lambda\\Fundamentos.AWS.Lambda.csproj": {
+              "projectPath": "C:\\Users\\andre.monteiro\\Dropbox\\My PC (PHIDELIS-09)\\Desktop\\Fundamentos.AWS.Lambda\\src\\Fundamentos.AWS.Lambda\\Fundamentos.AWS.Lambda.csproj"
             }
           }
         }

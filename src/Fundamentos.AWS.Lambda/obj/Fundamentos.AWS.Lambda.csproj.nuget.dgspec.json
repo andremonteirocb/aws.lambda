@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre.monteiro\\Dropbox\\Programação\\ASP.Net\\Estudos\\Fundamentos.AWS.Lambda\\src\\Fundamentos.AWS.Lambda\\Fundamentos.AWS.Lambda.csproj": {}
+    "C:\\Users\\andre.monteiro\\Dropbox\\My PC (PHIDELIS-09)\\Desktop\\Fundamentos.AWS.Lambda\\src\\Fundamentos.AWS.Lambda\\Fundamentos.AWS.Lambda.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre.monteiro\\Dropbox\\Programação\\ASP.Net\\Estudos\\Fundamentos.AWS.Lambda\\src\\Fundamentos.AWS.Lambda\\Fundamentos.AWS.Lambda.csproj": {
+    "C:\\Users\\andre.monteiro\\Dropbox\\My PC (PHIDELIS-09)\\Desktop\\Fundamentos.AWS.Lambda\\src\\Fundamentos.AWS.Lambda\\Fundamentos.AWS.Lambda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre.monteiro\\Dropbox\\Programação\\ASP.Net\\Estudos\\Fundamentos.AWS.Lambda\\src\\Fundamentos.AWS.Lambda\\Fundamentos.AWS.Lambda.csproj",
+        "projectUniqueName": "C:\\Users\\andre.monteiro\\Dropbox\\My PC (PHIDELIS-09)\\Desktop\\Fundamentos.AWS.Lambda\\src\\Fundamentos.AWS.Lambda\\Fundamentos.AWS.Lambda.csproj",
         "projectName": "AWS",
-        "projectPath": "C:\\Users\\andre.monteiro\\Dropbox\\Programação\\ASP.Net\\Estudos\\Fundamentos.AWS.Lambda\\src\\Fundamentos.AWS.Lambda\\Fundamentos.AWS.Lambda.csproj",
+        "projectPath": "C:\\Users\\andre.monteiro\\Dropbox\\My PC (PHIDELIS-09)\\Desktop\\Fundamentos.AWS.Lambda\\src\\Fundamentos.AWS.Lambda\\Fundamentos.AWS.Lambda.csproj",
         "packagesPath": "C:\\Users\\andre.monteiro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre.monteiro\\Dropbox\\Programação\\ASP.Net\\Estudos\\Fundamentos.AWS.Lambda\\src\\Fundamentos.AWS.Lambda\\obj\\",
+        "outputPath": "C:\\Users\\andre.monteiro\\Dropbox\\My PC (PHIDELIS-09)\\Desktop\\Fundamentos.AWS.Lambda\\src\\Fundamentos.AWS.Lambda\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
